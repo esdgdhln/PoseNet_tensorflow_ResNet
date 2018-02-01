@@ -12,7 +12,7 @@ import math
 batch_size = 2
 # Set this path to your dataset directory
 directory = '/home/sky/PoseNet-master/posenet/KingsCollege/'
-dataset = 'dataset_test.txt'
+dataset = 'dataset_train.txt'
 
 
 class datasource(object):
